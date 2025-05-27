@@ -13,4 +13,4 @@ while True:
         print("Division by zero is not allowed. Please enter a non-zero second number.")
     else:
         print(f"The result of {num1} divided by {num2} is: {result}")
-        break
+        break 
