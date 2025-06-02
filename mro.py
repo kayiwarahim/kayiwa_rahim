@@ -1,5 +1,4 @@
 # mro_example2.py
-
 class Person:
     def role(self):
         print("Person")
