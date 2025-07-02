@@ -24,9 +24,9 @@ client = tweepy.Client(
 # List of tweets to post
 tweets = [
     "Hello world! #RahimAgentAI",
-    "This is an automated post. #XAPI",
-    "Posting from my Python bot every 2 minutes!",
-    "Follow me for more updates! #Bot"
+    "This is a second tweet from my bot.",
+    "Ignoring the third tweet for now.",
+    "Am just a bot, but I can post tweets! #AI",
 ]
 tweet_index = 0
 
